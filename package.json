@@ -1,0 +1,12 @@
+{
+  "name": "DSA",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms in Python",
+  "keywords": [
+    "data-structures",
+    "algorithms"
+  ],
+  "repository": "https://github.com/maddhruv/DSA",
+  "author": "maddhruv <dhruvjainpenny@gmail.com>",
+  "license": "MIT"
+}
