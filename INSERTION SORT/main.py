@@ -1,6 +1,6 @@
 #ascending order
-def insertionSort(array):
-    for i in range(1, len(array)):
+def insertionSort(array):           # Here the reference of the array 'arr' is passed to the function i.e. no copy of the array is formed, 
+    for i in range(1, len(array)):  # array 'array' and 'arr' point to the same memory location.
         key = array[i]
         j = i - 1
 
